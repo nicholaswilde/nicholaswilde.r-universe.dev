@@ -3,6 +3,24 @@
     "package": "theamazingrace",
     "url": "https://github.com/nicholaswilde/the-amazing-race",
     "branch": "main",
-    "subdir": "r"
+    "subdir": "r",
+    "metadata": {
+      "category": "data-package",
+      "topics": [
+        "the-amazing-race",
+        "dataset",
+        "tidy-data",
+        "reality-tv",
+        "survival-analysis"
+      ],
+      "doi": "10.5281/zenodo.23074890",
+      "huggingface": "https://huggingface.co/datasets/nicholascwilde/the-amazing-race",
+      "documentation": "https://github.com/nicholaswilde/the-amazing-race",
+      "inspiration": [
+        "alone",
+        "survivoR",
+        "bakeoff"
+      ]
+    }
   }
 ]
