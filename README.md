@@ -1,4 +1,4 @@
-# nicholaswilde.r-universe.dev
+# :package: nicholaswilde.r-universe.dev :milky_way:
 
 Personal [R-universe](https://r-universe.dev) package repository registry for [@nicholaswilde](https://github.com/nicholaswilde).
 
