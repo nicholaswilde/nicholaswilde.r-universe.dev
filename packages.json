@@ -22,5 +22,29 @@
         "bakeoff"
       ]
     }
+  },
+  {
+    "package": "gbbo",
+    "url": "https://github.com/nicholaswilde/the-great-british-bake-off",
+    "branch": "main",
+    "subdir": "r",
+    "metadata": {
+      "category": "data-package",
+      "topics": [
+        "the-great-british-bake-off",
+        "gbbo",
+        "dataset",
+        "tidy-data",
+        "reality-tv",
+        "baking"
+      ],
+      "doi": "10.5281/zenodo.23449224",
+      "huggingface": "https://huggingface.co/datasets/nicholascwilde/the-great-british-bake-off",
+      "documentation": "https://github.com/nicholaswilde/the-great-british-bake-off",
+      "inspiration": [
+        "bakeoff",
+        "theamazingrace"
+      ]
+    }
   }
 ]
